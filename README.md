@@ -3,6 +3,6 @@
 
 Repositório criado durante uma aula ao vivo!
 <!-- Quando alteramos o readme, no terceiro ícone à esquerda, já tem uma alteração.
-No GitHub desktop, já tem a alteração (change)>
+No GitHub desktop, já tem a alteração (change)-->
 
 Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
