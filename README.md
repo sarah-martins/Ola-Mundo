@@ -6,3 +6,5 @@ Repositório criado durante uma aula ao vivo!
 No GitHub desktop, já tem a alteração (change)-->
 
 Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
+
+<!-- Para atualizar o que add no site, basta dar pull no github desktop -->
